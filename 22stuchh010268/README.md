@@ -7,11 +7,6 @@ This repository contains the implementation of a client-side URL Shortener web a
 ## 📑 Table of Contents
 - [Project Overview](#1-project-overview)
 - [Features](#2-features)
-- [Setup and Installation](#3-setup-and-installation)
-- [How to Run](#4-how-to-run)
-- [Key Implementation Details](#5-key-implementation-details)
-- [Assumptions](#6-assumptions)
-- [Evaluation Notes](#7-evaluation-notes)
 
 ---
 
